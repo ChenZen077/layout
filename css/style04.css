@@ -1,0 +1,52 @@
+header {
+    background-color: yellow;
+    padding: 80px 80px;
+    margin: 10px 5px;
+    border: solid 2px black;
+    color: blue;
+    text-align: center;
+    
+}
+
+main {
+    flex-direction: row;
+    display: flex;
+
+
+}
+
+.aside {
+       
+       border: solid 2px black;
+       padding: 50px 50px;
+       color: pink;
+       background-color: gray;
+       text-align: center;
+       align-items: flex-start;
+       flex-basis: 25%;
+       margin-right: 5px;
+       
+}
+
+.main {
+    
+    border: solid 2px black;
+    padding: 50px 50px;
+    color: greenyellow;
+    background-color: green;
+    text-align: center;
+    align-items: flex-end;
+    flex-basis: 75%;
+    margin-right: 5px;
+   
+}
+
+footer {
+    background-color: blue;
+    padding: 107px 107px;
+    margin: 10px 5px;
+    border: solid 2px black;
+    color: yellow;
+    text-align: center;
+
+}

@@ -1,0 +1,27 @@
+header {
+    background-color: yellow;
+    padding: 80px 80px;
+    margin: 10px 5px;
+    border: solid 2px black;
+    color: blue;
+    
+}
+
+main {
+    background-color: gray;
+    text-align: center;
+    padding: 100px 100px;
+    margin: 10px 5px;
+    border: solid 2px black;
+    color: white;
+
+}
+
+footer {
+    background-color: blue;
+    padding: 107px 107px;
+    margin: 10px 5px;
+    border: solid 2px black;
+    color: yellow;
+
+}
